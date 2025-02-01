@@ -37,9 +37,9 @@ The API returns a JSON object with the following structure:
 
 ```json
 {
-    "slackEmail": "hminstatwat@gmail.com",
+    "slackEmail": "someemail@gmail.com",
     "current_datetime": "2025-02-01T12:00:00.000Z",
-    "github_url": "a"
+    "github_url": "https://github.com/someprofile/somerepo.git"
 }
 ```
 

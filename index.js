@@ -6,7 +6,7 @@ app.use(e.json())
 
 const slackEmail = "hminstatwat@gmail.com"
 const current_datetime = new Date().toISOString();
-const github_url = "a"
+const github_url = "https://github.com/sammy-nte/hng-stage-zero.git"
 
 const returnObj = {
     slackEmail,

@@ -57,4 +57,5 @@ fetch("http://localhost:3300/")
 ```
 
 This API provides a basic example of an Express server returning JSON data.
-
+### Hire a node-js developer
+- **URL:** `[text](https://hng.tech/hire/nodejs-developers)`
